@@ -28,6 +28,6 @@ Email: heatherveva@gmail.com
 
 ## Links
 
-GitHub Repository: https://github.com/heatherveva/hw19_texteditor.git
+GitHub Repository: https://github.com/heatherveva/hw21MERN.git
 
-GitHub Page: https://heatherveva.github.io/hw19_texteditor/
+GitHub Page: https://heatherveva.github.io/hw21MERN/
